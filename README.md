@@ -1,5 +1,5 @@
 # inviMeal 
-### *by inviTa*
+### *by invita*
 Choose your meal and enjoy the recipe!!
 
 <p align="left">
